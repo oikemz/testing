@@ -11,4 +11,4 @@ testing things out
 
 - goal
 - another goal
-- -win win
+- win win
